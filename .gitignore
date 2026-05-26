@@ -13,4 +13,7 @@ venv/
 .env
 
 # scratch notebooks
-workspace.ipynb
+notebooks/workspace.ipynb
+
+# processed data
+data/processed/
