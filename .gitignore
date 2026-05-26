@@ -1,0 +1,16 @@
+# dataset
+data/raw/
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env
+
+# scratch notebooks
+workspace.ipynb
